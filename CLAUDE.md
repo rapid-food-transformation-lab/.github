@@ -4,7 +4,7 @@
 
 This repository (`.github`) hosts the public-facing profile for the **Rapid Food Transformation Lab** GitHub Organization at the Oxford Martin School, University of Oxford. The lab is led by Professor Paul Behrens and focuses on how food, energy, and economic systems can transform rapidly enough to avoid the worst climate impacts.
 
-The primary file here is `README.md` — the markdown document that appears on the organisation's GitHub landing page at https://github.com/rapid-food-transformation-lab. Note: GitHub requires this file to be at `profile/README.md` to render as the org profile.
+The primary file here is `profile/README.md` — the markdown document that appears on the organisation's GitHub landing page at https://github.com/rapid-food-transformation-lab.
 
 ## Organization structure
 
