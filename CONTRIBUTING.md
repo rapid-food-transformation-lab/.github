@@ -16,7 +16,7 @@ If you find a problem with a published reproduction package — a broken workflo
 - the error message or unexpected behaviour
 - your operating system, R or Python version, and relevant package versions
 
-For questions about the research itself, contact the lab directly through the [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk).
+For questions about the research itself, contact the lab directly.
 
 ## Submitting changes
 
@@ -26,8 +26,6 @@ If you have been given write access to a repository:
 - Keep commits small and descriptive
 - Open a pull request with a brief explanation of the change and why it is needed
 - One of the `@core-admin` or `@research-leads` team will review
-
-For reproduction packages, changes that affect numerical outputs must include a note on whether and why results differ from the published paper.
 
 ## Code style
 
