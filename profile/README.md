@@ -8,15 +8,26 @@ Food systems are responsible for roughly a third of global greenhouse gas emissi
 
 ## What you will find here
 
-This GitHub Organization hosts the computational work of the lab:
+This GitHub Organisation hosts the computational work of the lab. We use a flat repository structure: each project gets one repo (private during WIP, public on submission), alongside a small set of permanent shared infrastructure repos.
 
-**Reproduction packages** (`{project}-paper`) accompany published papers, containing the code and workflow needed to reproduce every figure and table from raw data to final output.
+| Repo               | Visibility | Purpose                                                          |
+| ------------------ | ---------- | ---------------------------------------------------------------- |
+| `.github`          | Public     | Org profile (`profile/README.md`)                                |
+| `lab-docs`         | Public     | Lab objectives, paper annotations, high-level documentation      |
+| `lab-notes-vault`  | Private    | Obsidian vault — meeting notes, literature, working thoughts     |
+| `lab-templates`    | Private    | Reusable file templates: CLAUDE.md, YAML, R/Python starters      |
+| `project-template` | Public     | GitHub-native template repo — scaffold for new project repos     |
+| `teaching`         | Public     | Workshop and course materials                                    |
 
-**Project repositories** (`{project}-project`) hold active research in progress — typically private until submission.
+### Projects
 
-**Shared tools** (`raft-{toolname}`) are Python libraries, R packages, and data pipelines developed for reuse across projects.
+One repo per project. Private during active development, public on paper submission. On publication: make public, link to archived data, add `published` topic.
 
-**Teaching and documentation** repositories hold course materials, workshop code, and lab-wide documentation.
+| Repo pattern     | Visibility       | Purpose                                                       |
+| ---------------- | ---------------- | ------------------------------------------------------------- |
+| `{project-name}` | Private → Public | Research project: analysis, writing, and reproduction package |
+
+
 
 ## Open science
 
