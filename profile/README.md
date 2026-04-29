@@ -29,9 +29,9 @@ One repo per project. Private during active development, public on paper submiss
 
 ### Published Projects
 
-| Paper | Citation | Code | Data |
-| ------ | -------- | ---- | ---- |
-| Ammonia emissions from agricultural products at high resolution across Europe | Jin et al. (2025) *Scientific Data* [10.1038/s41597-025-05110-9](https://doi.org/10.1038/s41597-025-05110-9) | [Code_for_AP_NH3](https://github.com/Xinpeng0930/Code_for_AP_NH3) | [AP-AMMO on figshare](https://doi.org/10.6084/m9.figshare.27642675) |
+| Paper | Title | Repository |
+| ------ | -------- | ---- |
+| Jin et al. (2025) *Scientific Data* [10.1038/s41597-025-05110-9](https://doi.org/10.1038/s41597-025-05110-9) | Ammonia emissions from agricultural products at high resolution across Europe | [jinAmmoniaEmissionsAgricultural2025a](https://github.com/rapid-food-transformation-lab/jinAmmoniaEmissionsAgricultural2025a) |
 
 ## Open science
 
