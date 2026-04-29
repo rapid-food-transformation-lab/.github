@@ -1,0 +1,22 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# targets pipeline cache
+_targets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Outputs (uncomment if large)
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
